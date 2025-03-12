@@ -17,5 +17,5 @@ This project applies **text preprocessing, vectorization, and classification tec
 - **Vectorization Techniques**: One-Hot Encoding, TF-IDF, and Word Embeddings (`Word2Vec`, `GloVe`, `FastText`).  
 - **Hybrid Meta-Embedding**: Combining multiple embeddings dynamically for better performance.  
 - **Imbalanced Data Handling**: Using `ADASYN` for synthetic sampling to improve minority class predictions.  
-- **Machine Learning Models**: `MLPClassifier`, `Random Forest`, `CNN`.  
-- **Deep Learning Models**: **BERT & XLNet**, where **BERT achieved the highest accuracy of 83%**.  
+- **Machine Learning Models**: `MLPClassifier`, `Random Forest`, `SVM`, `Naive Bayes`...  
+- **Deep Learning Models**: `CNN`, `LSTM`, `GRU` **BERT & XLNet**, where **BERT achieved the highest accuracy of 83%**.  

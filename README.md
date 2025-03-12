@@ -18,4 +18,4 @@ This project applies **text preprocessing, vectorization, and classification tec
 - **Hybrid Meta-Embedding**: Combining multiple embeddings dynamically for better performance.  
 - **Imbalanced Data Handling**: Using `ADASYN` for synthetic sampling to improve minority class predictions.  
 - **Machine Learning Models**: `MLPClassifier`, `Random Forest`, `SVM`, `Naive Bayes`...  
-- **Deep Learning Models**: `CNN`, `LSTM`, `GRU` **BERT & XLNet**, where **BERT achieved the highest accuracy of 83%**.  
+- **Deep Learning Models**: `CNN`, `LSTM`, `GRU`, `Bert`, `XLNet`, where **BERT achieved the highest accuracy of 83%**.  
